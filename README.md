@@ -7,3 +7,6 @@
     - [音泉](http://www.onsen.ag/)
     - [AG-ON](http://ondemand.joqr.co.jp/AG-ON)
     - [超！A&G+](http://www.agqr.jp)
+
+* Blog
+    - [Ameba](https://www.ameba.jp/) - get someone's blog media list
